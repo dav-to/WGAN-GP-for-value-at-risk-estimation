@@ -11,7 +11,7 @@ For comparison 95% VaR is also estimated for the backtesting period using the cl
 ## Files
 
 **vargan_model.ipynb** - This file creates the WGAN-GP model and gives a pretrained model.  
-Some code here is based on example code by A_K_Nain [4], such as the modification of keras.model and overriding the Model.train_step.
+Some code here is based on example code by A_K_Nain [4], such as the modification of keras.model and overriding the Model.train_step.  
 **backtesting.ipynb** - This file updates the pretrained model to get new estimates for a backtesting period. For each update of the model the model is updated using recent historical data prior to the day the VaR is estimated for.
 
 ## References
