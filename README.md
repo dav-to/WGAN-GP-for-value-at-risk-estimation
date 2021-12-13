@@ -16,10 +16,10 @@ Here the modification of keras.model and overriding the Model.train_step is base
 
 ## References
 [1] I. Goodfellow et al., “Generative adversarial nets”, in Advances in Neural Information Processing Systems, 2014, vol 27.
-[Online]. Available: https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html
+Accesed on: December 13, 2021. [Online]. Available: https://papers.nips.cc/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html
 
 [2] I. Gulrajani, F. Ahmed, M. Arjovsky, V. Dumoulin, en A. C. Courville, “Improved training of wasserstein GANs”, in Advances in Neural Information Processing Systems, 2017, vol 30.
-[Online]. Available: https://papers.nips.cc/paper/2017/hash/892c3b1c6dccd52936e27cbd0ff683d6-Abstract.html
+Accesed on: December 13, 2021. [Online]. Available: https://papers.nips.cc/paper/2017/hash/892c3b1c6dccd52936e27cbd0ff683d6-Abstract.html
 
 [3] D. Tobjörk, "Value at risk estimation with generative adversarial networks", M.S. thesis, Dept. of Statistics, Lund Univ., Lund, 2021. Accesed on: December 12, 2021. [Online].
 Available: https://lup.lub.lu.se/student-papers/search/publication/9042741 
