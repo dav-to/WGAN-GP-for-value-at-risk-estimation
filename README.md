@@ -4,9 +4,9 @@ This repository contains code to estimate Value at risk for a financial portfoli
 The code is based on some of the code that I used in my master's thesis on the subject [3].
 
 WGAN-GP is used to simulate returns for a financial portfolio, the 95% VaR can then be estimated as the 5th percentile times -1 (as VaR is in terms of loss).
-To get a updated VaR estimate that reflects the current market condition a pretrained model is updated by training the model for a number of additional epochs on recent data.
+To get an updated VaR estimate that reflects the current market condition a pretrained model is updated by training the model for a number of additional epochs on recent data.
 
-For comparison VaR is also estimated for the backtesting period using the classical variance-covariance method. 
+For comparison 95% VaR is also estimated for the backtesting period using the classical variance-covariance method. 
 
 ## Files
 
